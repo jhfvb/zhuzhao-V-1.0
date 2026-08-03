@@ -1,6 +1,7 @@
 /ZhuZhaoGUI.pro.user
 /.qtcreator/
 /.vs/
-/debug/
-/release/
 /build/
+/debug/
+/DESTDIR/
+/release/
